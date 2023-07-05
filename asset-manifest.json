@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c904ca0f.css",
+    "main.js": "/static/js/main.d58038ad.js",
+    "static/js/196.94e62c27.chunk.js": "/static/js/196.94e62c27.chunk.js",
+    "static/js/566.803d4138.chunk.js": "/static/js/566.803d4138.chunk.js",
+    "static/js/950.6dfd81ba.chunk.js": "/static/js/950.6dfd81ba.chunk.js",
+    "static/js/931.d785b7d5.chunk.js": "/static/js/931.d785b7d5.chunk.js",
+    "static/js/331.d9b79672.chunk.js": "/static/js/331.d9b79672.chunk.js",
+    "static/js/728.6591dc02.chunk.js": "/static/js/728.6591dc02.chunk.js",
+    "static/js/432.0c8e746e.chunk.js": "/static/js/432.0c8e746e.chunk.js",
+    "static/js/935.be172ff1.chunk.js": "/static/js/935.be172ff1.chunk.js",
+    "static/js/27.57c96bcc.chunk.js": "/static/js/27.57c96bcc.chunk.js",
+    "static/js/823.510c57fe.chunk.js": "/static/js/823.510c57fe.chunk.js",
+    "static/media/skytime.png": "/static/media/skytime.3011d19e5cc48d8c7fb8.png",
+    "static/media/social_bg.jpeg": "/static/media/social_bg.35f8e544fe3f17192782.jpeg",
+    "static/media/Star.svg": "/static/media/Star.b844fe229bd69c42c35d10b989113095.svg",
+    "static/media/VK.svg": "/static/media/VK.1a8c2efdb3ac8050ebc61a8e58beb1a6.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c904ca0f.css",
+    "static/js/main.d58038ad.js"
+  ]
+}
