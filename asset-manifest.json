@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c904ca0f.css",
-    "main.js": "/static/js/main.3b9603f8.js",
+    "main.js": "/static/js/main.29a03fe9.js",
     "static/js/196.94e62c27.chunk.js": "/static/js/196.94e62c27.chunk.js",
     "static/js/566.803d4138.chunk.js": "/static/js/566.803d4138.chunk.js",
     "static/js/950.6dfd81ba.chunk.js": "/static/js/950.6dfd81ba.chunk.js",
@@ -15,15 +15,15 @@
     "static/js/823.510c57fe.chunk.js": "/static/js/823.510c57fe.chunk.js",
     "static/media/skytime.png": "/static/media/skytime.3011d19e5cc48d8c7fb8.png",
     "static/media/social_bg.jpeg": "/static/media/social_bg.35f8e544fe3f17192782.jpeg",
+    "static/media/Discord.svg": "/static/media/Discord.4487cef349be2bb7974507ceeffa3830.svg",
     "static/media/Star.svg": "/static/media/Star.b844fe229bd69c42c35d10b989113095.svg",
-    "static/media/YouTube.svg": "/static/media/YouTube.afeaccf02f0950978d78fc5e6c532a1d.svg",
+    "static/media/YouTube.svg": "/static/media/YouTube.255e06cacde06b23e01f1c44c17a9634.svg",
+    "static/media/Forum.svg": "/static/media/Forum.1282fa0d98d90590f77e455774cd40a6.svg",
     "static/media/VK.svg": "/static/media/VK.1a8c2efdb3ac8050ebc61a8e58beb1a6.svg",
-    "static/media/Discord.svg": "/static/media/Discord.472d4a510cf2e950c9fc5221f35e8471.svg",
-    "index.html": "/index.html",
-    "static/media/Forum.svg": "/static/media/Forum.91f9e61e7f7e0353d5a072efd0db1ed9.svg"
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.c904ca0f.css",
-    "static/js/main.3b9603f8.js"
+    "static/js/main.29a03fe9.js"
   ]
 }
