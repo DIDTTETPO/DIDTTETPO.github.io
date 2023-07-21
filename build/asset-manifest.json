@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c904ca0f.css",
+    "main.js": "/static/js/main.ad7fee22.js",
+    "static/js/196.94e62c27.chunk.js": "/static/js/196.94e62c27.chunk.js",
+    "static/js/566.803d4138.chunk.js": "/static/js/566.803d4138.chunk.js",
+    "static/js/950.ddee5493.chunk.js": "/static/js/950.ddee5493.chunk.js",
+    "static/js/931.7b710255.chunk.js": "/static/js/931.7b710255.chunk.js",
+    "static/js/331.d9b79672.chunk.js": "/static/js/331.d9b79672.chunk.js",
+    "static/js/728.6591dc02.chunk.js": "/static/js/728.6591dc02.chunk.js",
+    "static/js/432.0c8e746e.chunk.js": "/static/js/432.0c8e746e.chunk.js",
+    "static/js/190.3de77cb2.chunk.js": "/static/js/190.3de77cb2.chunk.js",
+    "static/js/473.6660a841.chunk.js": "/static/js/473.6660a841.chunk.js",
+    "static/js/935.be172ff1.chunk.js": "/static/js/935.be172ff1.chunk.js",
+    "static/js/27.57c96bcc.chunk.js": "/static/js/27.57c96bcc.chunk.js",
+    "static/js/823.dfae218c.chunk.js": "/static/js/823.dfae218c.chunk.js",
+    "static/media/skytime.png": "/static/media/skytime.3011d19e5cc48d8c7fb8.png",
+    "static/media/social_bg.jpeg": "/static/media/social_bg.35f8e544fe3f17192782.jpeg",
+    "static/media/Discord.svg": "/static/media/Discord.4487cef349be2bb7974507ceeffa3830.svg",
+    "static/media/Star.svg": "/static/media/Star.b844fe229bd69c42c35d10b989113095.svg",
+    "static/media/YouTube.svg": "/static/media/YouTube.255e06cacde06b23e01f1c44c17a9634.svg",
+    "static/media/Forum.svg": "/static/media/Forum.1282fa0d98d90590f77e455774cd40a6.svg",
+    "static/media/VK.svg": "/static/media/VK.1a8c2efdb3ac8050ebc61a8e58beb1a6.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c904ca0f.css",
+    "static/js/main.ad7fee22.js"
+  ]
+}
